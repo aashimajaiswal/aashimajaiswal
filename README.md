@@ -16,7 +16,10 @@ Currently building cool GenAI stuff at **Heineken Singapore** and making AI work
 - 🤔 Exploring the future of artificial intelligence
 
 ## 📊 GitHub Stats
-![Aashima's GitHub stats](https://github-readme-stats.vercel.app/api?username=aashimajaiswal&show_icons=true&theme=synthwave&hide_border=true)
+![Aashima's GitHub stats](https://github-readme-stats.vercel.app/api?username=aashimajaiswal&show_icons=true&theme=moltack&hide_border=true)
+
+## 💭 Daily Inspiration
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🌱 Currently Learning
 MCP (Model Context Protocol) and prepping for AI-102 AI Engineer certification
